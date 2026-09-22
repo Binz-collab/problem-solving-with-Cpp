@@ -2,3 +2,6 @@
 .vscode
 solving/
 docs/
+exercise/
+*.sh
+*.txt
